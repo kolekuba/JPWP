@@ -1,0 +1,13 @@
+C:\Users\kuba1\source\repos\ProjektJPWP\ProjektJPWP\bin\Debug\ProjektJPWP.exe.config
+C:\Users\kuba1\source\repos\ProjektJPWP\ProjektJPWP\bin\Debug\ProjektJPWP.exe
+C:\Users\kuba1\source\repos\ProjektJPWP\ProjektJPWP\bin\Debug\ProjektJPWP.pdb
+C:\Users\kuba1\source\repos\ProjektJPWP\ProjektJPWP\obj\Debug\ProjektJPWP.csproj.AssemblyReference.cache
+C:\Users\kuba1\source\repos\ProjektJPWP\ProjektJPWP\obj\Debug\ProjektJPWP.Form1.resources
+C:\Users\kuba1\source\repos\ProjektJPWP\ProjektJPWP\obj\Debug\ProjektJPWP.Pomoc.resources
+C:\Users\kuba1\source\repos\ProjektJPWP\ProjektJPWP\obj\Debug\ProjektJPWP.Poziom1.resources
+C:\Users\kuba1\source\repos\ProjektJPWP\ProjektJPWP\obj\Debug\ProjektJPWP.Poziom2.resources
+C:\Users\kuba1\source\repos\ProjektJPWP\ProjektJPWP\obj\Debug\ProjektJPWP.Properties.Resources.resources
+C:\Users\kuba1\source\repos\ProjektJPWP\ProjektJPWP\obj\Debug\ProjektJPWP.csproj.GenerateResource.cache
+C:\Users\kuba1\source\repos\ProjektJPWP\ProjektJPWP\obj\Debug\ProjektJPWP.csproj.CoreCompileInputs.cache
+C:\Users\kuba1\source\repos\ProjektJPWP\ProjektJPWP\obj\Debug\ProjektJPWP.exe
+C:\Users\kuba1\source\repos\ProjektJPWP\ProjektJPWP\obj\Debug\ProjektJPWP.pdb
